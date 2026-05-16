@@ -84,7 +84,7 @@ ent-ClothingOuterHardsuitSanta = DNK-31 - "Jolly" Hardsuit
 ent-ClothingOuterHardsuitPilot = RI-4202 - "Icarus" Piloting Hardsuit
     .desc = A hardsuit tailored for pilots, and also Robust Industries' first and only hardsuit on the market. The tags indicate it protects from high radiation exposure, mild physical trauma, and mild chemical spills. It feels somewhat light.
 
-ent-ClothingOuterHardsuitCybersunStealth = CSA-48OS "Ronin" Sealth Hardsuit
+ent-ClothingOuterHardsuitCybersunStealth = CSA-48OS "Ronin" Stealth Hardsuit
     .desc = A stealth hardsuit reverse-engineered from Spider Clan technology by the Cybersun Armaments Corporation. The armor appears to be lined with a resonating alloy, reducing its effectiveness but allowing it to go invisible while standing still. It doesn't seem to have any weight.
 
 ent-ClothingOuterHardsuitSurgeonGeneral = NT-444SG - "Jegudiel" Hardsuit
