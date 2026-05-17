@@ -1,0 +1,19 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretChiefEngineer
+  name: chief engineer's beret
+  description: A lusterous, white beret with a Supermatter crystal emblazoned on top of the Engineering insignia. Try not to damage the lamination.
+  components:
+  - type: Sprite
+    sprite: _Euphoria/Clothing/Head/Hat/beret_ce.rsi
+  - type: Clothing
+    slots: [head]
+    sprite: _Euphoria/Clothing/Head/Hat/beret_ce.rsi
+  - type: Tag
+    tags:
+    - PetWearable
+    - CorgiWearable
+    - ClothMade
+    - Recyclable
+    - HamsterWearable
+    - WhitelistChameleon
