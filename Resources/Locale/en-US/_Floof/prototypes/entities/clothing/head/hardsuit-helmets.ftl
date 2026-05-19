@@ -106,7 +106,7 @@ ent-ClothingHeadHelmetHardsuitCybersunStealth = CSA-48OS Stealth Hardsuit Helmet
 ent-ClothingHeadHelmetHardsuitCombatStandard = FPA-85 Helmet
     .desc = An armoured helmet with a yellow visor and dual head-mounted lights. Meant to keep your noggin from busting open.
 
-ent-ClothingHeadHelmetHardsuitCombatStandard = FPA-85S Helmet
+ent-ClothingHeadHelmetHardsuitCombatOfficer = FPA-85S Helmet
     .desc = An armoured helmet with a yellow visor and dual head-mounted lights. Meant to keep your noggin from busting open. This one is painted in Station Security colors.
 
 ent-ClothingHeadHelmetHardsuitCombatMedical = FPA-86 Helmet
