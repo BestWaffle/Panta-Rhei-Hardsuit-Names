@@ -90,9 +90,6 @@ ent-ClothingOuterHardsuitCybersunStealth = CSA-48OS "Ronin" Stealth Hardsuit
 ent-ClothingOuterHardsuitSurgeonGeneral = NT-444SG - "Jegudiel" Hardsuit
     .desc = An advanced medical hardsuit made for the Surgeon General. It is branded with the NanoTrasen logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy, and it feels incredibly light.
 
-ent-ClothingOuterHardsuitFreelancerNorthstar = FLC-04X - "Northstar" Freelancer Softsuit
-    .desc A Freelancer Cooperative-made softsuit that has an integral, if non-functional, cloaking system. The labels on it claim it can protect from moderate physical trauma. There's a patch that reads "When the clouds clear you will see the light of the Northstar" on the right arm.
-
 ent-ClothingOuterHardsuitFreelancerLegion = FLC-03A - "Legion" Freelancer Softsuit
     .desc = A Freelancer Cooperative-made softsuit with labels that claim it's protective against moderate physical trauma. There's a patch that reads "You ask if its reliable? We say a ton" on the right arm.
 
