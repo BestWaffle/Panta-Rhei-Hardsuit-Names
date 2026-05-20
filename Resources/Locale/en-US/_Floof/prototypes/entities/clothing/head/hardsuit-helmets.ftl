@@ -100,7 +100,7 @@ ent-ClothingHeadHelmetHardsuitSanta = DNK-31 Helmet
 ent-ClothingHeadHelmetHardsuitPilot = RI-4202 Helmet
     .desc = Light hardsuit helmet for 'Robust' pilots. Produced by Robust Industries.
 
-ent-ClothingHeadHelmetHardsuitCybersunStealth = CSA-48OS Stealth Hardsuit Helmet
+ent-ClothingHeadHelmetHardsuitCybersunStealth = CSA-91OX Stealthsuit Helmet
     .desc = The Ronin's helmet. Lightly armored and required for the stealth capabilities to work.
 
 ent-ClothingHeadHelmetHardsuitCombatStandard = FPA-85 Helmet

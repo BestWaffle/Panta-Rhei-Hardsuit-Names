@@ -84,8 +84,8 @@ ent-ClothingOuterHardsuitSanta = DNK-31 - "Jolly" Hardsuit
 ent-ClothingOuterHardsuitPilot = RI-4202 - "Icarus" Piloting Hardsuit
     .desc = A hardsuit tailored for pilots, and also Robust Industries' first and only hardsuit on the market. The tags indicate it protects from high radiation exposure, mild physical trauma, and mild chemical spills. It feels somewhat light.
 
-ent-ClothingOuterHardsuitCybersunStealth = CSA-48OS "Ronin" Stealth Hardsuit
-    .desc = A stealth hardsuit reverse-engineered from Spider Clan technology by the Cybersun Armaments Corporation. The armor appears to be lined with a resonating alloy, reducing its effectiveness but allowing it to go invisible while standing still. It doesn't seem to have any weight.
+ent-ClothingOuterHardsuitCybersunStealth = CSA-91OX "Èguǐ" Stealthsuit
+    .desc = A stealthsuit reverse-engineered from Spider Clan technology by the Cybersun Armaments Corporation. The armor appears to be lined with a resonating alloy, reducing its effectiveness but allowing it to go invisible while standing still. It doesn't seem to have any weight.
 
 ent-ClothingOuterHardsuitSurgeonGeneral = NT-444SG - "Jegudiel" Hardsuit
     .desc = An advanced medical hardsuit made for the Surgeon General. It is branded with the NanoTrasen logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy, and it feels incredibly light.
