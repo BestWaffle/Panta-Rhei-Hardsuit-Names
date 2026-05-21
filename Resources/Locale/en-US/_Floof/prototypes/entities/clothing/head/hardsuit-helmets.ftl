@@ -91,8 +91,8 @@ ent-ClothingHeadHelmetHardsuitERTJanitor = NT-444EJ Helmet
 ent-ClothingHeadHelmetCBURN = NT-444-CBRN Helmet
     .desc = A pressure resistant and fireproof hood worn by special cleanup units. Designed to keep you alive while fighting biological horrors.
 
-ent-ClothingHeadHelmetHardsuitDeathsquad = NT-662UA Helmet
-    .desc = A highly-advanced, top-of-the-line, robust helmet for special operations.
+ent-ClothingHeadHelmetHardsuitDeathsquad = TSN-M100 Helmet
+    .desc = A highly-advanced, top-of-the-line, robust helmet for special operations. Owned by the Trans-Solar Navy.
 
 ent-ClothingHeadHelmetHardsuitSanta = DNK-31 Helmet
     .desc = A festive-looking hardsuit helmet that provides the jolly gift-giver protection from low-pressure environments.
@@ -127,22 +127,22 @@ ent-ClothingHeadHelmetHardsuitCombatAdvanced = FPA-99 Helmet
 ent-ClothingHeadHelmetHardsuitCombatHoS = FPA-99SC Helmet
     .desc = A light but durable helmet with full-face protection and four head-mounted lights. Meant to keep your noggin from busting open while leading. This one is painted with the colors of Station Security and Commander's rank markings.
 
-ent-ClothingHeadHelmetHardsuitERTLeaderElite = NT-555ELE Helmet
+ent-ClothingHeadHelmetHardsuitERTLeaderElite = SDC-E101 Helmet
     .desc = A special tactical combat hardsuit helmet worn by Elite Leaders of an Emergency Response Team. Designed to keep you alive in the confines of a post-collapse Station.
 
-ent-ClothingHeadHelmetHardsuitERTChaplainElite = NT-555ECE Helmet
+ent-ClothingHeadHelmetHardsuitERTChaplainElite = SDC-E102 Helmet
     .desc = A special tactical combat hardsuit helmet worn by Elite Chaplains of an Emergency Response Team. Designed to keep you alive in the confines of a post-collapse Station.
 
-ent-ClothingHeadHelmetHardsuitERTEngineerElite = NT-555EEE Helmet
+ent-ClothingHeadHelmetHardsuitERTEngineerElite = SDC-E103 Helmet
     .desc = A special tactical combat hardsuit helmet worn by Elite Engineers of an Emergency Response Team. Designed to keep you alive in the confines of a post-collapse Station.
 
-ent-ClothingHeadHelmetHardsuitERTMedicalElite = NT-555EME Helmet
+ent-ClothingHeadHelmetHardsuitERTMedicalElite = SDC-E104 Helmet
     .desc = A special tactical combat hardsuit helmet worn by Elite Medics of an Emergency Response Team. Designed to keep you alive in the confines of a post-collapse Station.
 
-ent-ClothingHeadHelmetHardsuitERTSecurityElite = NT-555ESE Helmet
+ent-ClothingHeadHelmetHardsuitERTSecurityElite = SDC-E105 Helmet
     .desc = A special tactical combat hardsuit helmet worn by Elite Security Officers of an Emergency Response Team. Designed to keep you alive in the confines of a post-collapse Station.
 
-ent-ClothingHeadHelmetHardsuitERTJanitorElite = NT-555EJE Helmet
+ent-ClothingHeadHelmetHardsuitERTJanitorElite = SDC-E106 Helmet
     .desc = A special tactical combat hardsuit helmet worn by Elite Janitors of an Emergency Response Team. Designed to keep you alive in the confines of a post-collapse Station that's filthier than a nuclear wasteland.
 
 ent-ClothingHeadHelmetHardsuitSyndieReverseEngineered = Reverse-Engineered CSA-51O Helmet

@@ -72,8 +72,8 @@ ent-ClothingOuterHardsuitJuggernaut = CSA-80OUA - "Guan Yu" Tacsuit
 ent-ClothingOuterHardsuitWizard = WZD-84 - "Mana" Tacsuit
     .desc = A bizarre gem-encrusted suit famously used by members of the Wizard Federation in their operations. Contrary to its appearance, it can protect its wearer from space and moderate amounts of physical trauma. It feels somewhat light.
 
-ent-ClothingOuterHardsuitDeathsquad = NT-662UA "Samael" Tacsuit
-    .desc = A highly-advanced, top-of-the-line tactical combat hardsuit branded with the NanoTrasen logo and a strange-looking series number. You can barely make out the characters "NTIA-DAP" written on it. The armor appears to be lined with an exceptionally sturdy alloy, and doesn't seem to have any weight, either.
+ent-ClothingOuterHardsuitDeathsquad = TSN-M100 - "Orion" Tacsuit
+    .desc = A highly-advanced, top-of-the-line tactical combat hardsuit branded with the TSN insignia and a strange-looking series number. You can barely make out the characters "" written on it. The armor appears to be lined with an exceptionally sturdy alloy, and doesn't seem to have any weight, either.
 
 ent-ClothingOuterHardsuitCBURN = NT-444-CBRN - "Jophiel" Tacsuit
     .desc = A tactical combat hardsuit used by the CBURN division of the Emergency Response Team, branded with the NanoTrasen logo and a strange-looking series number. The armor appears to be lined with a rather plain but sturdy alloy. It doesn't seem to have any weight.
@@ -141,26 +141,26 @@ ent-ClothingOuterHardsuitERTSecurityBase = NT-444ES - "Gabriel" Tacsuit
 ent-ClothingOuterHardsuitERTJanitorBase = NT-444EJ - "Sandalphon" Hardsuit
     .desc = A highly-advanced hardsuit used by Janitors of an Emergency Response Team. It's branded with the NanoTrasen logo and a strange-looking series number. The armor appears to be lined with a somewhat sturdy alloy that is highly resistant to radiation and thermal exposure. It doesn't seem to have any weight.
 
-ent-ClothingOuterHardsuitERTLeaderElite = NT-555ELE - "Carter" Tacsuit
-    .desc = A highly-advanced tactical combat suit used by Elite Leaders of an Emergency Response Team. It's branded with the NanoTrasen logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy. It doesn't seem to have any weight.
+ent-ClothingOuterHardsuitERTLeaderElite = SDC-E101 - "Carter" Tacsuit
+    .desc = A highly-advanced tactical combat suit used by Elite Leaders of an Emergency Response Team. It's branded with the Sentinel Defence Contracting logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy. It doesn't seem to have any weight.
 
-ent-ClothingOuterHardsuitERTChaplainElite = NT-555ECE - "Thom" Tacsuit
-    .desc = A highly-advanced tactical combat hardsuit used by Elite Chaplains of an Emergency Response Team. It's branded with the NanoTrasen logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy. It doesn't seem to have any weight.
+ent-ClothingOuterHardsuitERTChaplainElite = SDC-E102 - "Thom" Tacsuit
+    .desc = A highly-advanced tactical combat hardsuit used by Elite Chaplains of an Emergency Response Team. It's branded with the Sentinel Defence Contracting logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy. It doesn't seem to have any weight.
 
-ent-ClothingOuterHardsuitERTEngineerElite = NT-555EEE - "Jorge" Tacsuit
-    .desc = A highly-advanced tactical combat hardsuit used by Elite Engineers of an Emergency Response team. It's branded with the NanoTrasen logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy. It doesn't seem to have any weight.
+ent-ClothingOuterHardsuitERTEngineerElite = SDC-E103 - "Jorge" Tacsuit
+    .desc = A highly-advanced tactical combat hardsuit used by Elite Engineers of an Emergency Response team. It's branded with the Sentinel Defence Contracting logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy. It doesn't seem to have any weight.
 
-ent-ClothingOuterHardsuitERTMedicalElite = NT-555EME - "Catherine" Tacsuit
-    .desc = A highly-advanced tactical combat hardsuit used by Elite Medics of an Emergency Response team. It's branded with the NanoTrasen logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy. It doesn't seem to have any weight.
+ent-ClothingOuterHardsuitERTMedicalElite = SDC-E104 - "Catherine" Tacsuit
+    .desc = A highly-advanced tactical combat hardsuit used by Elite Medics of an Emergency Response team. It's branded with the Sentinel Defence Contracting logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy. It doesn't seem to have any weight.
 
-ent-ClothingOuterHardsuitERTSecurityElite = NT-555ESE - "Emile" Tacsuit
-    .desc = A highly-advanced tactical combat hardsuit used by Elite Security Officers of an Emergency Response team. It's branded with the NanoTrasen logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy. It doesn't seem to have any weight.
+ent-ClothingOuterHardsuitERTSecurityElite = SDC-E105 - "Emile" Tacsuit
+    .desc = A highly-advanced tactical combat hardsuit used by Elite Security Officers of an Emergency Response team. It's branded with the Sentinel Defence Contracting logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy. It doesn't seem to have any weight.
 
-ent-ClothingOuterHardsuitERTJanitorElite = NT-555EJE - "Jun" Hardsuit
-    .desc = A highly-advanced tactical combat hardsuit used by Elite Janitors of an Emergency Response team. It's branded with the NanoTrasen logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy. It doesn't seem to have any weight.
+ent-ClothingOuterHardsuitERTJanitorElite = SDC-E106 - "Jun" Hardsuit
+    .desc = A highly-advanced tactical combat hardsuit used by Elite Janitors of an Emergency Response team. It's branded with the Sentinel Defence Contracting logo and a strange-looking series number. The armor appears to be lined with a very sturdy alloy. It doesn't seem to have any weight.
 
-ent-ClothingOuterHardsuitSyndieReverseEngineered = Reverse-Engineered CSA-54O "Shanlin" Tacsuit
+ent-ClothingOuterHardsuitSyndieReverseEngineered = Reverse-Engineered CSA-54O - "Shanlin" Tacsuit
     .desc = A tactical combat hardsuit originally produced by the Cybersun Armaments Corporation, now reverse-engineered. The suit's tags indicate it provides moderate protection against most forms of damage. It feels incredibly light.
 
-ent-ClothingOuterHardsuitJuggernautReverseEngineered = Reverse-Engineered CSA-80OUA "Guan Yu" Tacsuit
+ent-ClothingOuterHardsuitJuggernautReverseEngineered = Reverse-Engineered CSA-80OUA - "Guan Yu" Tacsuit
     .desc = The former pride and joy of the Cybersun Armaments Corporation, now reverse-engineered. The suit's tags indicate that it protects excellently against all forms of damage. It feels VERY heavy.
